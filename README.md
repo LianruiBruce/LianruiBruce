@@ -1,84 +1,106 @@
 <div align="center">
 
-# 👨‍💻 Lianrui Geng | Software Engineer
+# 👨‍💻 Lianrui Geng
+[![GitHub followers](https://img.shields.io/github/followers/LianruiBruce?style=for-the-badge&logo=github&color=181d27&logoColor=fff)](https://github.com/LianruiBruce)
+[![Profile Views](https://komarev.com/ghpvc/?username=lianruibruce&style=for-the-badge&color=181d27)](https://github.com/LianruiBruce)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lianrui-geng-01533a294)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u1346008@utah.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://lianruibruce.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LianruiBruce)
+*Computer Science Student at University of Utah | Math Minor*
 
 </div>
 
-## 🎓 About Me
+## 👋 About Me
 
+```javascript
 const lianrui = {
-    education: "Computer Science @ University of Utah",
+    education: "University of Utah (2020 - Present)",
+    major: "Computer Science",
     minor: "Mathematics",
     location: "Salt Lake City, Utah",
-    interests: ["Software Development", "Web Technologies", "Machine Learning"],
-    currentlyLearning: ["Node.js", "React"],
-    currentProject: "WRAP - Legal Document Analysis System"
+    currentlyWorking: "WRAP - Legal Document Analysis System",
+    learningNow: ["Node.js", "React"]
 };
-
+```
 
 ## 🚀 Featured Project: WRAP
 
 <div align="center">
 
-[![WRAP Demo](https://img.shields.io/badge/WRAP-Demo-brightgreen?style=for-the-badge)](https://wrapcapstone.com)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/LianruiBruce/wrap)
+[![WRAP](https://img.shields.io/badge/WRAP-181d27?style=for-the-badge)](https://wrapcapstone.com)
+[![DEMO](https://img.shields.io/badge/DEMO-50fa7b?style=for-the-badge)](https://wrapcapstone.com)
+[![GITHUB](https://img.shields.io/badge/GitHub-181d27?style=for-the-badge)](https://github.com/LianruiBruce/wrap)
+[![REPO](https://img.shields.io/badge/REPO-00a6ed?style=for-the-badge)](https://github.com/LianruiBruce/wrap)
 
 </div>
 
 WRAP (Web-based Resource for Analyzing Papers) is a comprehensive legal document analysis system that includes:
 
 - 🔍 Chrome Extension for automatic document detection
-- 🌐 React-based web application with Material-UI
+- ⚛️ React-based web application with Material UI
 - 🤖 Advanced NLP backend with CUDA acceleration
 - 📊 Interactive data visualization
 - 🔐 Secure JWT authentication
-- 📱 Real-time updates with Socket.IO
+- 🔄 Real-time updates with Socket.IO
 
 ## 💻 Technical Arsenal
 
 ### Languages
+```json
 {
     "Expert": ["Python", "C++", "JavaScript"],
     "Proficient": ["C#", "Java", "C", "MATLAB"],
     "Familiar": ["HTML5", "CSS3", "SQL"]
 }
+```
 
 ### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-181d27?style=for-the-badge&logo=react)
+![Material-UI](https://img.shields.io/badge/Material--UI-181d27?style=for-the-badge&logo=mui)
+![HTML5](https://img.shields.io/badge/HTML5-181d27?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-181d27?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-181d27?style=for-the-badge&logo=javascript)
 
 ### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-181d27?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-181d27?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-181d27?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-181d27?style=for-the-badge&logo=mysql)
+![NGINX](https://img.shields.io/badge/NGINX-181d27?style=for-the-badge&logo=nginx)
 
 ### 🛠️ Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-181d27?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-181d27?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-181d27?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-181d27?style=for-the-badge&logo=visual-studio-code)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-181d27?style=for-the-badge&logo=unreal-engine)
+![Qt](https://img.shields.io/badge/Qt-181d27?style=for-the-badge&logo=qt)
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lianruibruce&layout=compact&theme=radical&hide_border=true)](https://github.com/LianruiBruce)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lianruibruce&show_icons=true&theme=radical&hide_border=true)](https://github.com/LianruiBruce)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lianruibruce&layout=compact&theme=radical&bg_color=181d27&hide_border=true&text_color=fff)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lianruibruce&theme=radical&hide_border=true)](https://github.com/LianruiBruce)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lianruibruce&show_icons=true&theme=radical&bg_color=181d27&hide_border=true&text_color=fff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lianruibruce&theme=radical&background=181d27&hide_border=true&ring=50fa7b&fire=50fa7b&currStreakLabel=50fa7b)
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+```plaintext
+🌟 Total Stars Earned: 3
+🔄 Total Commits (2024): 146
+🔀 Total PRs: 0
+⚠️ Total Issues: 0
+🤝 Contributed to (last year): 1
+
+🎯 Total Contributions: 655
+🔥 Current Streak: 1 (Nov 28)
+⚡ Longest Streak: 8 (Mar 28, 2023 - Apr 4, 2023)
+```
 
 </div>
 
@@ -86,24 +108,17 @@ WRAP (Web-based Resource for Analyzing Papers) is a comprehensive legal document
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lianrui-geng-01533a294)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u1346008@utah.edu)
-[![Resume](https://img.shields.io/badge/View_Resume-FF7139?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](http://lianruibruce.github.io/files/Geng_Lianrui_Resume_0924.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181d27?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lianrui-geng-01533a294)
+[![Email](https://img.shields.io/badge/Email-181d27?style=for-the-badge&logo=gmail)](mailto:u1346008@utah.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181d27?style=for-the-badge&logo=github)](http://lianruibruce.github.io)
+[![Resume](https://img.shields.io/badge/Resume-181d27?style=for-the-badge&logo=read-the-docs)](http://lianruibruce.github.io/files/Geng_Lianrui_Resume_0924.pdf)
 
 </div>
 
 ---
-<div align="center">
-    
-### 👨‍💻 Currently working on [WRAP](https://github.com/LianruiBruce/wrap)
-### 🌱 Learning Node.js and React
-### 📍 Based in Salt Lake City, Utah
 
-</div>
-
----
 <div align="center">
-    
-⭐️ From [LianruiBruce](https://github.com/LianruiBruce) with 💻
+
+*⭐️ From [LianruiBruce](https://github.com/LianruiBruce) | Last Updated: November 2024*
 
 </div>
