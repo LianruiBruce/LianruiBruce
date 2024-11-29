@@ -1,124 +1,30 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Lianrui Geng</h1>
+<h3 align="center">I’m an enthusiastic Computer Science undergraduate at the University of Utah, complemented by a minor in Mathematics.</h3>
 
-# 👨‍💻 Lianrui Geng
-[![GitHub followers](https://img.shields.io/github/followers/LianruiBruce?style=for-the-badge&logo=github&color=181d27&logoColor=fff)](https://github.com/LianruiBruce)
-[![Profile Views](https://komarev.com/ghpvc/?username=lianruibruce&style=for-the-badge&color=181d27)](https://github.com/LianruiBruce)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lianruibruce&label=Profile%20views&color=0e75b6&style=flat" alt="lianruibruce" /> </p>
 
-*Computer Science Student at University of Utah | Math Minor*
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lianruibruce" alt="lianruibruce" /></a> </p>
 
-</div>
+- 🔭 I’m currently working on **Wrap**
 
-## 👋 About Me
+- 🌱 I’m currently learning **node.js and react**
 
-```javascript
-const lianrui = {
-    education: "University of Utah (2020 - Present)",
-    major: "Computer Science",
-    minor: "Mathematics",
-    location: "Salt Lake City, Utah",
-    currentlyWorking: "WRAP - Legal Document Analysis System",
-    learningNow: ["Node.js", "React"]
-};
-```
+- 👨‍💻 All of my projects are available at [https://github.com/LianruiBruce?tab=repositories](https://github.com/LianruiBruce?tab=repositories)
 
-## 🚀 Featured Project: WRAP
+- 📫 How to reach me **u1346008@utah.edu**
 
-<div align="center">
+- 📄 Know about my experiences [http://lianruibruce.github.io/files/Geng_Lianrui_Resume_0924.pdf](http://lianruibruce.github.io/files/Geng_Lianrui_Resume_0924.pdf)
 
-[![WRAP](https://img.shields.io/badge/WRAP-181d27?style=for-the-badge)](https://wrapcapstone.com)
-[![DEMO](https://img.shields.io/badge/DEMO-50fa7b?style=for-the-badge)](https://wrapcapstone.com)
-[![GITHUB](https://img.shields.io/badge/GitHub-181d27?style=for-the-badge)](https://github.com/LianruiBruce/wrap)
-[![REPO](https://img.shields.io/badge/REPO-00a6ed?style=for-the-badge)](https://github.com/LianruiBruce/wrap)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lianrui-geng-01533a294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lianrui-geng-01533a294" height="30" width="40" /></a>
+</p>
 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-WRAP (Web-based Resource for Analyzing Papers) is a comprehensive legal document analysis system that includes:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lianruibruce&show_icons=true&locale=en&layout=compact" alt="lianruibruce" /></p>
 
-- 🔍 Chrome Extension for automatic document detection
-- ⚛️ React-based web application with Material UI
-- 🤖 Advanced NLP backend with CUDA acceleration
-- 📊 Interactive data visualization
-- 🔐 Secure JWT authentication
-- 🔄 Real-time updates with Socket.IO
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lianruibruce&show_icons=true&locale=en" alt="lianruibruce" /></p>
 
-## 💻 Technical Arsenal
-
-### Languages
-```json
-{
-    "Expert": ["Python", "C++", "JavaScript"],
-    "Proficient": ["C#", "Java", "C", "MATLAB"],
-    "Familiar": ["HTML5", "CSS3", "SQL"]
-}
-```
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-181d27?style=for-the-badge&logo=react)
-![Material-UI](https://img.shields.io/badge/Material--UI-181d27?style=for-the-badge&logo=mui)
-![HTML5](https://img.shields.io/badge/HTML5-181d27?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-181d27?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-181d27?style=for-the-badge&logo=javascript)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-181d27?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-181d27?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-181d27?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-181d27?style=for-the-badge&logo=mysql)
-![NGINX](https://img.shields.io/badge/NGINX-181d27?style=for-the-badge&logo=nginx)
-
-### 🛠️ Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-181d27?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-181d27?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-181d27?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-181d27?style=for-the-badge&logo=visual-studio-code)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-181d27?style=for-the-badge&logo=unreal-engine)
-![Qt](https://img.shields.io/badge/Qt-181d27?style=for-the-badge&logo=qt)
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lianruibruce&layout=compact&theme=radical&bg_color=181d27&hide_border=true&text_color=fff)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lianruibruce&show_icons=true&theme=radical&bg_color=181d27&hide_border=true&text_color=fff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lianruibruce&theme=radical&background=181d27&hide_border=true&ring=50fa7b&fire=50fa7b&currStreakLabel=50fa7b)
-
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-```plaintext
-🌟 Total Stars Earned: 3
-🔄 Total Commits (2024): 146
-🔀 Total PRs: 0
-⚠️ Total Issues: 0
-🤝 Contributed to (last year): 1
-
-🎯 Total Contributions: 655
-🔥 Current Streak: 1 (Nov 28)
-⚡ Longest Streak: 8 (Mar 28, 2023 - Apr 4, 2023)
-```
-
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181d27?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lianrui-geng-01533a294)
-[![Email](https://img.shields.io/badge/Email-181d27?style=for-the-badge&logo=gmail)](mailto:u1346008@utah.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181d27?style=for-the-badge&logo=github)](http://lianruibruce.github.io)
-[![Resume](https://img.shields.io/badge/Resume-181d27?style=for-the-badge&logo=read-the-docs)](http://lianruibruce.github.io/files/Geng_Lianrui_Resume_0924.pdf)
-
-</div>
-
----
-
-<div align="center">
-
-*⭐️ From [LianruiBruce](https://github.com/LianruiBruce) | Last Updated: November 2024*
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lianruibruce&" alt="lianruibruce" /></p>
