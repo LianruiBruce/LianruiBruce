@@ -11,7 +11,6 @@
 
 ## 🎓 About Me
 
-```typescript
 const lianrui = {
     education: "Computer Science @ University of Utah",
     minor: "Mathematics",
@@ -20,7 +19,7 @@ const lianrui = {
     currentlyLearning: ["Node.js", "React"],
     currentProject: "WRAP - Legal Document Analysis System"
 };
-```
+
 
 ## 🚀 Featured Project: WRAP
 
@@ -43,13 +42,11 @@ WRAP (Web-based Resource for Analyzing Papers) is a comprehensive legal document
 ## 💻 Technical Arsenal
 
 ### Languages
-```json
 {
     "Expert": ["Python", "C++", "JavaScript"],
     "Proficient": ["C#", "Java", "C", "MATLAB"],
     "Familiar": ["HTML5", "CSS3", "SQL"]
 }
-```
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
