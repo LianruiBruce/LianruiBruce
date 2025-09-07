@@ -6,6 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/LianruiBruce?label=Followers&style=social)](https://github.com/LianruiBruce?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lianrui_Geng-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lianrui-geng-01533a294/)
 
+## Master of Science in Computer Science @ The University of North Carolina at Chapel Hill
 ## Computer Science Undergraduate @ University of Utah
 *Pursuing a Minor in Mathematics*
 
