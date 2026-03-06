@@ -1,32 +1,30 @@
 <div align="center">
   
-# 👨‍💻 Lianrui Geng
+# 👨‍💻 Lianrui (Bruce) Geng
 
 [![Profile Views](https://komarev.com/ghpvc/?username=LianruiBruce&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/LianruiBruce)
 [![GitHub followers](https://img.shields.io/github/followers/LianruiBruce?label=Followers&style=social)](https://github.com/LianruiBruce?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lianrui_Geng-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lianrui-geng-01533a294/)
 
-## Master of Science in Computer Science @ The University of North Carolina at Chapel Hill
-## Computer Science Undergraduate @ University of Utah
-*Pursuing a Minor in Mathematics*
+### Master of Science in Computer Science @ The University of North Carolina at Chapel Hill
+*Research Assistant @ ZDlab & Sishuai Gong's Lab*
 
 </div>
 
-### 🎯 Current Focus
+---
 
-- 🔭 Leading development of **[WRAP](https://github.com/LianruiBruce/wrap)** - A sophisticated legal document analysis system
-- 🌱 Expanding my stack with **Node.js** and **React**
-- 📚 Combining Computer Science expertise with Mathematical principles
-- 🎓 Exploring the intersection of web technologies and legal tech
+### 🎓 Academic Profile & Research
 
-### 🚀 Featured Project: WRAP
+I am a graduate student at **UNC Chapel Hill** with a strong focus on bridging theoretical computer science and practical systems. I am currently preparing for PhD applications, driven by a passion for deep technical problem-solving and innovative research.
 
-WRAP (Web-based Resource for Analyzing Papers) is an innovative legal document analysis system that showcases my technical capabilities:
+- 🔬 **Research Areas:** Artificial Intelligence (AI), Machine Learning, Human-AI Collaboration (HAC), and Computer Systems.
+- 👨‍🔬 **Current Affiliations:** Research Assistant under Prof. Zhun Deng (ZDlab) and Prof. Sishuai Gong (Computer Systems lab).
+- 📊 **Technical Focus:** Developing advanced AI models, exploring complex data visualization (D3.js), and building sophisticated full-stack architectures.
 
-- 🔍 Chrome extension for seamless document detection
-- 🌐 Full-stack web application with modern architecture
-- 🤖 Advanced NLP backend for intelligent analysis
-- 📊 Automated processing of Terms & Conditions, Privacy Policies, and Contracts
+### 🚀 Featured Projects & Development
+
+- 🔭 **[WRAP](https://github.com/LianruiBruce/wrap)** - Leading the development of a sophisticated legal document analysis system featuring an advanced NLP backend and automated processing of complex legal texts (Terms & Conditions, Privacy Policies, Contracts).
+- 💻 **Systems & AI Research** - Conducting active research at the intersection of AI and computer systems, analyzing academic literature, and implementing state-of-the-art computational models.
 
 ### 💻 Technical Skills
 
@@ -34,11 +32,10 @@ WRAP (Web-based Resource for Analyzing Papers) is an innovative legal document a
 
 | Category | Technologies |
 |:---:|:---|
-| **Programming Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> |
-| **Web Development** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> |
-| **Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> |
-| **DevOps & Cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> |
-| **Tools & Frameworks** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/> |
+| **Programming Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35"/> |
+| **AI, Data & Math** | `Machine Learning` `Human-AI Collaboration` `NLP` `Mathematics` `Data Visualization` |
+| **Web Dev & UI** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="35" height="35"/> |
+| **Systems & Cloud** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/> `MongoDB` `MySQL` `Nginx` `Git` |
 
 </div>
 
@@ -46,24 +43,24 @@ WRAP (Web-based Resource for Analyzing Papers) is an innovative legal document a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LianruiBruce&show_icons=true&theme=radical" width="400" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LianruiBruce&theme=radical" width="400" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LianruiBruce&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LianruiBruce&theme=radical&hide_border=true" width="400" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LianruiBruce&layout=compact&theme=radical" width="400" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LianruiBruce&layout=compact&theme=radical&hide_border=true" width="400" alt="Top Languages"/>
 
 </div>
 
 ### 📫 Let's Connect!
 
-- 📧 Email: [u1346008@utah.edu](mailto:u1346008@utah.edu)
-- 💼 LinkedIn: [Lianrui Geng](https://www.linkedin.com/in/lianrui-geng-01533a294/)
-- 📁 Portfolio: [GitHub Repositories](https://github.com/LianruiBruce?tab=repositories)
-- 📄 Resume: [View Resume](http://lianruibruce.github.io/files/Geng_Lianrui_Resume_0924.pdf)
+- 💼 **LinkedIn:** [Lianrui Geng](https://www.linkedin.com/in/lianrui-geng-01533a294/)
+- 📧 **Email:** [u1346008@utah.edu](mailto:u1346008@utah.edu) *(Available for academic & research inquiries)*
+- 📁 **Portfolio:** [GitHub Repositories](https://github.com/LianruiBruce?tab=repositories)
+- 📄 **Resume:** [View Resume](http://lianruibruce.github.io/files/Geng_Lianrui_Resume_0924.pdf)
 
 ---
 
 <div align="center">
   
-*"Building the future one commit at a time" 🚀*
+*"Advancing the frontier of AI and Systems, one commit at a time." 🚀*
 
 </div>
