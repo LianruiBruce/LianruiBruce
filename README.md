@@ -53,7 +53,7 @@ I am a graduate student at **UNC Chapel Hill** with a strong focus on bridging t
 ### 📫 Let's Connect!
 
 - 💼 **LinkedIn:** [Lianrui Geng](https://www.linkedin.com/in/lianrui-geng-01533a294/)
-- 📧 **Email:** [u1346008@utah.edu](mailto:u1346008@utah.edu) *(Available for academic & research inquiries)*
+- 📧 **Email:** [lianruig@unc.edu](mailto:lianruig@unc.edu) *(Available for academic & research inquiries)*
 - 📁 **Portfolio:** [GitHub Repositories](https://github.com/LianruiBruce?tab=repositories)
 - 📄 **Resume:** [View Resume](http://lianruibruce.github.io/files/Geng_Lianrui_Resume_0924.pdf)
 
