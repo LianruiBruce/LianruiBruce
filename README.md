@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lianrui_Geng-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lianrui-geng-01533a294/)
 
 ### Master of Science in Computer Science @ The University of North Carolina at Chapel Hill
-*Research Assistant @ ZDlab & Sishuai Gong's Lab*
+*Research Assistant @ ZDlab
 
 </div>
 
